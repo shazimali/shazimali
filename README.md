@@ -1,2 +1,2 @@
 - Full Stack Software engineer
-- Experties PHP | Laravel | Reactjs | Vuejs
+- Experties PHP | Laravel | Slim Framework | Reactjs | Vuejs
